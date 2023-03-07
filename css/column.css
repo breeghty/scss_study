@@ -1,0 +1,17 @@
+.row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.row .col-6 {
+  border: 1px solid teal;
+  width: 50%;
+}
+.row .col-4 {
+  border: 1px solid teal;
+  width: 33.33%;
+}
+.row .col-3 {
+  border: 1px solid teal;
+  width: 25%;
+}/*# sourceMappingURL=column.css.map */

@@ -1,0 +1,24 @@
+.alertBox:nth-child(1) {
+  width: 800px;
+  height: 50px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background: green;
+  color: black;
+}
+.alertBox:nth-child(2) {
+  width: 800px;
+  height: 50px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background: aqua;
+  color: white;
+}
+.alertBox:nth-child(3) {
+  width: 800px;
+  height: 50px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background: yellow;
+  color: green;
+}/*# sourceMappingURL=alert.css.map */

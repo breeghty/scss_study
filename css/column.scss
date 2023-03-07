@@ -1,0 +1,25 @@
+
+@mixin border($width){
+    border:1px solid teal;
+    width: $width;
+
+}
+
+.row{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    .col{
+        &-6{
+            @include border(50%);
+        }
+        &-4{
+            
+            @include border(33.33%);
+        }
+        &-3{
+    
+            @include border(25%);
+        }
+    }
+}

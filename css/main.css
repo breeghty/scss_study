@@ -1,0 +1,22 @@
+.bg-green, .bg-blue, .bg-red {
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+}
+
+.bg-red {
+  background: red;
+}
+
+.bg-blue {
+  background: blue;
+}
+
+.bg-green {
+  background: green;
+}
+
+h2 {
+  font-size: 40px;
+  width: -1px;
+}/*# sourceMappingURL=main.css.map */
